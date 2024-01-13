@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **ayala341@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/13b2AFIQnh6XggcuhRn4xPb8PHfdvyHwF?usp=sharing](https://drive.google.com/drive/folders/13b2AFIQnh6XggcuhRn4xPb8PHfdvyHwF?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayala tzabari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayala tzabari" height="30" width="40" /></a>
